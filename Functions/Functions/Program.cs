@@ -13,7 +13,7 @@ namespace Functions
 
             internal void Run()
             {
-            Console.WriteLine("Dit is nu de start van mijn programma"); 
+            Console.WriteLine("Dit is nu de start van mijn programma");
             
             }
       
